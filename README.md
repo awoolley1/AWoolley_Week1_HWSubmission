@@ -1,11 +1,11 @@
 
-* Repository contains quality README file with description, screenshot, and link to deployed application.
+Decription: 
+-Code refactor project - to increase accersibility with semantic HTML elements and concise CSS
 
-Decription:
+Links: 
+-GitHub Repository: https://github.com/awoolley1/AWoolley_Week1_HWSubmission
+-Live URL: 
 
-Screenshot:
-
-Links:
-
-Author:
+Author: 
+-Alex Woolley; https://github.com/awoolley1; alexander.s.woolley@gmail.com
 
